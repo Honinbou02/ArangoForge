@@ -1,0 +1,13 @@
+{
+  "name": "arangovector-create-multi",
+  "version": "1.0.0",
+  "description": "Create multiple collections with schema and relation configs (ACID-style)",
+  "author": "Tesla / OpenSource",
+  "engines": {
+    "arangodb": "^3.9.0"
+  },
+  "main": "index.js",
+  "files": {
+    "lib/utils.js": "lib/utils.js"
+  }
+}
